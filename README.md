@@ -14,3 +14,15 @@ For this dataset, I have used Decision Tree and Random Forrest to predict the ac
 ## Decision Tree - Confusion Matrix
 
 ![Decision Tree - Confusion Matrix](/images/decision_tree_CM.JPG)
+
+## Decision Tree - Classification Report
+
+![Decision Tree - Classification Report](/images/decision_tree_CR.JPG)
+
+## Random Forest - Confusion Matrix
+
+![Random Forest - Confusion Matrix](/images/random_forest_CM.JPG)
+
+## Random Forest - Classification Report
+
+![Random Forest - Classification Report](/images/random_forest_CR.JPG)
