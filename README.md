@@ -10,7 +10,7 @@ The data is obtained from https://www.kaggle.com/marklvl/activity-recognition-wi
 4 - Ambulating (moving around in the room)
 
 For this dataset, I have used Decision Tree and Random Forrest to predict the activity carried out by people based on Accelerometer readings.
-As shown from the results below, decision tree model has only an accuracy of 72% whereas random forest model has an accuracy of 98%.
+As shown from the results below, Decision Tree model has only an accuracy of 72% whereas Random Forest model has an accuracy of 98%.
 
 ## Decision Tree - Confusion Matrix
 
