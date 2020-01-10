@@ -11,3 +11,6 @@ The data is obtained from https://www.kaggle.com/marklvl/activity-recognition-wi
 
 For this dataset, I have used Decision Tree and Random Forrest to predict the activity carried out by people based on Accelerometer readings.
 
+# Decision Tree - Confusion Matrix
+
+![Decision Tree - Confusion Matrix](/images/decision_tree_CM.JPG)
